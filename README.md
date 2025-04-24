@@ -78,7 +78,8 @@ else:
 
 ```
 ## OUTPUT
-<img width="935" alt="sudoku output" src="https://github.com/Ganesh23013987/19AI405ProjExp/assets/147473768/a76c0345-4e32-46c1-b507-6cd10c0af8c3">
+![image](https://github.com/user-attachments/assets/71f834b8-3505-490b-8e9b-4830454f48e9)
+
 
 ## RESULT:
 The Program was successfully runned and executed.
